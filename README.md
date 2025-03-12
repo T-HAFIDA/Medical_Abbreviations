@@ -13,6 +13,9 @@ The best-performing models presented in the paper are available for download:
 - [CASI_All](https://drive.google.com/drive/folders/1rJng4H9MFYG6GuSDjtrpdwi0dYXaMxYx?usp=sharing)
 - [CASI_13A](https://drive.google.com/drive/folders/1qXqw6s1OhfHam4hYcZI8exz4yW7yqBV4?usp=sharing)
 
+## Prediction Process:
+- Prediction_GPU: Used to predict examples using a CPU.
+- Prediction_GPU: Used to predict examples using a GPU.
 
 ## Citation
 If you use this work, please cite our paper:
